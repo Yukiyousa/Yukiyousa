@@ -1,5 +1,5 @@
 <div align=center>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yukiyousa&show_icons=true">
+Hi there, I am Yizhuo Ma (马一卓)
 
 </div>
